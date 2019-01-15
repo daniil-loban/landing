@@ -1,3 +1,7 @@
+.sub-caption {
+  word-break: break-word;
+  max-width: 400px;
+}
 
 
 /*# sourceMappingURL=7.style.css.map*/

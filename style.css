@@ -45,12 +45,13 @@
 }
 .ugly {
   font-family: 'ogilvie', serif;
+  font-weight: 600;
 }
 .beautiful {
   color: #3100e4;
   font-family: 'Werfus', serif;
   font-size: 2.5em;
-  font-width: 700;
+  font-weight: 600;
 }
 .user {
   margin-top: 0.5em;
@@ -124,7 +125,7 @@ button.begin-btn {
   left: 0;
   top: 0;
   color: black;
-  background-color: gold;
+  background-color: #f3f3f3;
   background-image: url(images/ruler.png);
   background-repeat: repeat-x;
   border-bottom: 1px solid white;

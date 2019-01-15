@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"7.style.css","sourcesContent":[],"sourceRoot":""}
+{"version":3,"sources":["webpack://app/./components/tasks/math/index.scss"],"names":[],"mappings":"AAAA;AACA;AACA;AACA","file":"7.style.css","sourcesContent":[".sub-caption {\n  word-break: break-word;\n  max-width: 400px;\n}\n"],"sourceRoot":""}
